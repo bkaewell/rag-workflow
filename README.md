@@ -1,2 +1,2 @@
-# large-language-model
+# rag-workflow
 Experimenting with LLMs and RAGs
